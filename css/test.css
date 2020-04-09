@@ -1,0 +1,28 @@
+body{
+	background-color: gold;
+}
+h1{
+	font-size: 30px;
+	color: crimson;
+	font-family: Helvetica;
+}
+
+h2{
+	font-size: 20px;
+	color: teal;
+	font-family: Courier;
+}
+
+.big{
+	font-size: 50px;
+}
+
+.uppercase{
+	text-align: right;
+	text-transform: uppercase;
+}
+
+span{
+	color: skyblue;
+}
+	</style>
